@@ -94,11 +94,9 @@ Delete the resource group you created
 ```
 
 # 📖 Learn More
-```bash 
-Azure AI Services Documentation
+> [Azure AI Services Documentation](https://learn.microsoft.com/en-us/azure/ai-services/)
 
-Azure Text Analytics API
-```
+> [Azure Text Analytics API](https://learn.microsoft.com/en-us/rest/api/cognitiveservices-textanalytics/)
 
 # 🌟 Acknowledgements
 Thanks to Microsoft Learn for providing the learning materials.
@@ -107,16 +105,3 @@ Thanks to Microsoft Learn for providing the learning materials.
 This project gave me hands-on experience connecting Python apps to Azure AI Services quickly and effectively.
 Looking forward to building more AI-powered apps! 💬✨
 
-```yaml
-
----
-
-✅ **I made it:**
-- More clean
-- Beautiful headings
-- Emojis organized nicely
-- Proper code blocks (`bash`, `env`)
-- Hyperlinks where needed
-
----
-```
