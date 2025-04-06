@@ -33,8 +33,8 @@ In this project, you'll learn how to:
 ## 🚀 1. Clone the Repository
 
 ```bash
-git clone https://github.com/MicrosoftLearning/mslearn-ai-services.git
-cd mslearn-ai-services/Labfiles/01-use-azure-ai-services/Python
+git clone https://github.com/MouryaSagar17/Azure-AI-Services---Beginner-Project.git
+cd mslearn-ai-services/Python
 ```
 
 ⚙️ 2. Set Up Environment Variables
@@ -55,6 +55,8 @@ Run with REST Client
 ```bash
 python rest-client.py
 ```
+# Type some word to find the language of the words shown in the sample ouputs
+
 ## SAMPLE OUTPUT
 ![SAMPLE OUTPUT](https://github.com/MouryaSagar17/Azure-AI-Services---Beginner-Project/blob/4871f2a53dc7398b051238824b2807bd520a1f89/use-azure-ai-services/outputs/rest-client-1.png) 
 
@@ -63,13 +65,16 @@ THE OUTPUT IS IN JSON FORMAT
 
 ![SAMPLE OUTPUT3](https://github.com/MouryaSagar17/Azure-AI-Services---Beginner-Project/blob/main/use-azure-ai-services/outputs/rest-client-3.png?raw=true)
 
-Run with Azure SDK Client
+
+# Run with Azure SDK Client
 ```bash
 python sdk-client.py
 ```
 ## SAMPLE OUTPUT
 ![SAMPLE OUTPUT1](https://github.com/MouryaSagar17/Azure-AI-Services---Beginner-Project/blob/main/use-azure-ai-services/outputs/sdk-client-1.png?raw=true)
-🎯 Features
+
+# 🎯 Features
+```bash 
 🌎 Detects the language of user-entered text
 
 🔐 Secure API calls using API keys
@@ -79,6 +84,8 @@ python sdk-client.py
 🖥️ Easy-to-use console interface for testing
 
 🧹 Clean Up
+```
+
 After testing, delete your Azure resources to avoid extra charges:
 ```BASH
 Go to the Azure Portal
@@ -86,15 +93,17 @@ Go to the Azure Portal
 Delete the resource group you created
 ```
 
-📖 Learn More
+# 📖 Learn More
+```bash 
 Azure AI Services Documentation
 
 Azure Text Analytics API
+```
 
-🌟 Acknowledgements
+# 🌟 Acknowledgements
 Thanks to Microsoft Learn for providing the learning materials.
 
-🚀 Final Note
+# 🚀 Final Note
 This project gave me hands-on experience connecting Python apps to Azure AI Services quickly and effectively.
 Looking forward to building more AI-powered apps! 💬✨
 
