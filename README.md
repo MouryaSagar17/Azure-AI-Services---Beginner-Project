@@ -34,7 +34,7 @@ In this project, you'll learn how to:
 
 ```bash
 git clone https://github.com/MouryaSagar17/Azure-AI-Services---Beginner-Project.git
-cd mslearn-ai-services/Python
+cd use-azure-ai-services/Python
 ```
 
 ⚙️ 2. Set Up Environment Variables
